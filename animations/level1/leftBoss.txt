@@ -1,0 +1,1 @@
+images/level1Boss/leftBoss1.png, images/level1Boss/leftBoss2.png, images/level1Boss/leftBoss3.png, images/level1Boss/leftBoss4.png

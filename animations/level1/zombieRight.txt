@@ -1,0 +1,1 @@
+images/level1Zombie/zombieRight1.png, images/level1Zombie/zombieRight2.png, images/level1Zombie/zombieRight3.png, images/level1Zombie/zombieRight4.png, images/level1Zombie/zombieRight5.png, images/level1Zombie/zombieRight6.png, images/level1Zombie/zombieRight7.png, images/level1Zombie/zombieRight8.png

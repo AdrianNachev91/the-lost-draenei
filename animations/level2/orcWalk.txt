@@ -1,0 +1,1 @@
+images\level2Boss\orcWalk1.png, images\level2Boss\orcWalk2.png, images\level2Boss\orcWalk3.png, images\level2Boss\orcWalk4.png, images\level2Boss\orcWalk5.png, images\level2Boss\orcWalk6.png

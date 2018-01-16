@@ -1,0 +1,1 @@
+images/level1Spider/rightSpider1.png, images/level1Spider/rightSpider2.png, images/level1Spider/rightSpider3.png, images/level1Spider/rightSpider4.png, images/level1Spider/rightSpider5.png, images/level1Spider/rightSpider6.png

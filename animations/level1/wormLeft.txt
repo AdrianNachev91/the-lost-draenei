@@ -1,0 +1,1 @@
+images/level1Worm/wormLeft1.png, images/level1Worm/wormLeft2.png, images/level1Worm/wormLeft3.png, images/level1Worm/wormLeft4.png, images/level1Worm/wormLeft5.png, images/level1Worm/wormLeft6.png

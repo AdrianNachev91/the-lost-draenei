@@ -1,0 +1,1 @@
+images/level1Worm/fireRight3.png, images/level1Worm/fireRight4.png, images/level1Worm/fireRight5.png, images/level1Worm/fireRight6.png, images/level1Worm/fireRight7.png, images/level1Worm/fireRight8.png

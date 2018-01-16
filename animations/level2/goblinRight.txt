@@ -1,0 +1,1 @@
+images\level2Goblin\goblinRight1.png, images\level2Goblin\goblinRight2.png, images\level2Goblin\goblinRight3.png, images\level2Goblin\goblinRight4.png, images\level2Goblin\goblinRight5.png, images\level2Goblin\goblinRight6.png

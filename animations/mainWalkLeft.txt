@@ -1,0 +1,1 @@
+images/mainChar/draeneiLeft1.png, images/mainChar/draeneiLeft2.png, images/mainChar/draeneiLeft3.png, images/mainChar/draeneiLeft4.png

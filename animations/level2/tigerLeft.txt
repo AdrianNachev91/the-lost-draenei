@@ -1,0 +1,1 @@
+images\level2Tiger\tigerWalkLeft1.png, images\level2Tiger\tigerWalkLeft2.png, images\level2Tiger\tigerWalkLeft3.png, images\level2Tiger\tigerWalkLeft4.png, images\level2Tiger\tigerWalkLeft5.png, images\level2Tiger\tigerWalkLeft6.png

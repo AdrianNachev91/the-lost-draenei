@@ -1,0 +1,1 @@
+images/mainChar/arrowLeft.png
